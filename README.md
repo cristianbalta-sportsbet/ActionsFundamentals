@@ -30,15 +30,15 @@ Please follow [these instructions](GettingReady.md) and make sure you have set u
 - [x] Jobs and steps
 - [x] :mag: Demo: Creating a workflow
 - [x] 🔨 Hands-on: [My first Action workflow](hol/01-My-first-workflow.md)
-- [ ] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
-- [ ] :coffee: Break
-- [ ] GitHub Actions
-- [ ] Types of Actions
-- [ ] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
-- [ ] Typescript and composite actions
-- [ ] Sharing and releasing actions
-- [ ] Using the GitHub API and Octokit
-- [ ] Job descriptions
+- [x] Advanced [workflow syntax](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions)
+- [x] :coffee: Break
+- [x] GitHub Actions
+- [x] Types of Actions
+- [x] 🔨 Hands-on: [My first container Action](hol/02-My-first-action.md)
+- [x] Typescript and composite actions
+- [x] Sharing and releasing actions
+- [x] Using the GitHub API and Octokit
+- [x] Job descriptions
 
 ### Day 2
 - [ ] Introduction
